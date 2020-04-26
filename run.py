@@ -9,8 +9,8 @@ import datetime
 app = Flask(__name__)
 
 translator = Translator()
-account_sid="ACf807961c8c8b19765668cfbda0c26fde"
-auth_token = '24bf455d7cf1926ce0f7bf523ca60d7a'
+account_sid= '************' #your account secret 
+auth_token = '************'	#auth token received from twilio
 
 @app.route("/sms", methods=['GET', 'POST'])
 
@@ -63,13 +63,13 @@ def receive_sms():
     	
     message = message+"\n\n\n\n"+str(translation)
     resp.message(message)
-    # print(message)
+    print(message)
     return str(resp)
 
 def find_lat_lon(location):
 
 	URL = "https://maps.googleapis.com/maps/api/geocode/json"
-	key = "AIzaSyCQI22Bkjzi_4VGOvsQcpUJuqWnGTnByV4"
+	key = "*************" #google map key
 
 	PARAMS = {'address': location, "key": key}
 	r = requests.get(url=URL, params=PARAMS)
