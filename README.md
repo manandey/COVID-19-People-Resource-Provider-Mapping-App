@@ -1,19 +1,11 @@
-DaanMatch
-Problem Statements
+## COVID-19 'People - Resource Provider' Mapping App 
 
-1. Help us operationalize the single largest collection of individual Indian NGOs and local community leaders in need of resources to help those most effected by the lockdown in India.
-2. Develop the algorithms that can automatically match resource providers with those in need using our heterogeneous distributed data sources.
-3. Develop the largest publicly available interface to assist in decision making for helpers on the ground in India.
-
-## COVID-19 People - Resource provider Mapping App 
+During this time of COVID-19 pandemic, we are facing the biggest crisis of our lifetimes. It seems like the sky has crashed down on the underprivileged sector of the society who aren't able to meet the basic needs. NGOs all across the country are trying their best to reach out to help yet, but they aren't able to provide support to everyone mostly because of a gap in communication.
 
 The goal of this project is to:
+
 * Make it possible for those in need to reach out for help at just a phone call/SMS.
-* Develop and build algorithms that can automatically suggest and match them to the best resource providers (NGOs, Volunteers).
-
-## Description: 
-
-A description of your project follows. A good description is clear, short, and to the point. Describe the importance of your project, and what it does.
+* Develop and build algorithms that can automatically suggest and match them to the best resource providers (NGOs, Volunteers)
 
 ## Table of Contents: 
 
