@@ -39,4 +39,4 @@ Include a section for credits in order to highlight and link to the authors of y
 
 ## License: 
 
-Finally, include a section for the license of your project. For more information on choosing a license, check out GitHub’s licensing guide!
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
