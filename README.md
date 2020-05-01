@@ -33,7 +33,7 @@ Our application communicates with the user in both English as well as the local 
 
 If you are interested in contributing to this project or have any ideas to add additional features to this application feel free to reach out to [@thechange](https://github.com/thechange) or submit a pull request. The list of pending tasks can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQTVc-Gz4Bntbv2bVDf3Nv0A7nLiiXylJbNa5a3luYek31KxDwF5S7rBKvz2lJI6ZE765W3ryXUcPL5/pubhtml).
 
-## Credits: 
+## Collaborators: 
 
 Current collaborators in this project are [thechange](https://github.com/thechange), [manandey](https://github.com/manandey/), [H-A-R-S-H-I-T-A-N-A-N-D](https://github.com/H-A-R-S-H-I-T-A-N-A-N-D) and [jumbocrumbs](https://github.com/jumbocrumbs). 
 
