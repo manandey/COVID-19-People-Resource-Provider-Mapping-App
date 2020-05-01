@@ -5,9 +5,11 @@ Problem Statements
 2. Develop the algorithms that can automatically match resource providers with those in need using our heterogeneous distributed data sources.
 3. Develop the largest publicly available interface to assist in decision making for helpers on the ground in India.
 
-## Project name: 
+## COVID-19 People - Resource provider Mapping App 
 
-Your project’s name is the first thing people will see upon scrolling down to your README, and is included upon creation of your README file.
+The goal of this project is to:
+* Make it possible for those in need to reach out for help at just a phone call/SMS.
+* Develop and build algorithms that can automatically suggest and match them to the best resource providers (NGOs, Volunteers).
 
 ## Description: 
 
