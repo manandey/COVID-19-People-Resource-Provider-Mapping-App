@@ -31,7 +31,7 @@ Our application communicates with the user in both English as well as the local 
 
 ## Contributing: 
 
-If you are interested in contributing to this project feel free to reach out to @thechange or submit a pull request. The list of pending tasks can be found [here](http://github.com).
+If you are interested in contributing to this project feel free to reach out to @ thechange or submit a pull request. The list of pending tasks can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQTVc-Gz4Bntbv2bVDf3Nv0A7nLiiXylJbNa5a3luYek31KxDwF5S7rBKvz2lJI6ZE765W3ryXUcPL5/pubhtml).
 
 ## Credits: 
 
