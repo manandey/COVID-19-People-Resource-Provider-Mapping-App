@@ -17,7 +17,17 @@ Installation is the next section in an effective README. Tell other users how to
 
 ## Usage: 
 
-The next section is usage, in which you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
+This App currently serves the location of Bihar, India. So please send an address belonging to the state of Bihar, India. 
+
+To use this application, please follow the following steps:
+
+
+* Send an SMS to the Phone no: +1863-450-1750 with your current address (Should be in Bihar, India).
+* Call an NGO from the list you receive.
+* Send us feedback on the basis of response time and satisfaction
+
+
+Our application communicates with the user in both English as well as the local language of that place to remove any language barriers.
 
 ## Contributing: 
 
