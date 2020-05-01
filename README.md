@@ -35,7 +35,7 @@ If you are interested in contributing to this project or have any ideas to add a
 
 ## Collaborators: 
 
-Current collaborators in this project are [thechange](https://github.com/thechange), [manandey](https://github.com/manandey/), [H-A-R-S-H-I-T-A-N-A-N-D](https://github.com/H-A-R-S-H-I-T-A-N-A-N-D) and [jumbocrumbs](https://github.com/jumbocrumbs). 
+[thechange](https://github.com/thechange), [manandey](https://github.com/manandey/), [H-A-R-S-H-I-T-A-N-A-N-D](https://github.com/H-A-R-S-H-I-T-A-N-A-N-D) and [jumbocrumbs](https://github.com/jumbocrumbs). 
 
 ## License: 
 
