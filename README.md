@@ -17,7 +17,7 @@ Installation is the next section in an effective README. Tell other users how to
 
 ## Usage: 
 
-This App currently serves the location of Bihar, India. So please send an address belonging to the state of Bihar, India. 
+This App currently currently serves the location of Bihar, India. So please send an address belonging to the state of Bihar, India. 
 
 To use this application, please follow the following steps:
 
