@@ -35,7 +35,7 @@ If you are interested in contributing to this project or have any ideas to add a
 
 ## Credits: 
 
-Include a section for credits in order to highlight and link to the authors of your project.
+Current collaborators in this project are [thechange](https://github.com/thechange), [manandey](https://github.com/manandey/), [H-A-R-S-H-I-T-A-N-A-N-D](https://github.com/H-A-R-S-H-I-T-A-N-A-N-D) and [jumbocrumbs](https://github.com/jumbocrumbs). 
 
 ## License: 
 
